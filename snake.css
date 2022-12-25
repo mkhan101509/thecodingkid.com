@@ -1,0 +1,23 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-image: url(snake.jpg);
+    color: azure;
+    text-size-adjust: 1000;
+}
+ol {
+  font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+li {
+  font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+ul {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+}
+hr {
+  font-family: 'Courier New', Courier, monospace;
+  text-align: left;
+}
